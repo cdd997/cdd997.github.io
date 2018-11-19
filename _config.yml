@@ -1,9 +1,10 @@
 # Site settings
-title: BY Blog
+title: 陈建平的博客
 SEOTitle: 春夏秋冬
 header-img: img/post-bg-desk.jpg
 email: 1269860862@qq.com
-description: ""
+description: "热爱编程，广泛学习；BUG 调试，经验还行；做事认真，负责到底；细心缜密，目标坚定；为人谦和，善于倾听；爱好篮球，团队当头；房子车子，加班努力；也有抱怨，善于调节；感悟生活，钻研技术；IT人生，指条明路"
+keyword: "陈建平, 前端WEB开发工程师"
 keyword: "陈建平, 前端WEB开发工程师"
 url: "http://cdd997.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
