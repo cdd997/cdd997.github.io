@@ -3,11 +3,7 @@ title: 陈建平的博客
 SEOTitle: 春夏秋冬
 header-img: img/post-bg-desk.jpg
 email: 1269860862@qq.com
-description: "热爱编程，广泛学习；BUG 调试，经验还行
-         做事认真，负责到底；细心缜密，目标坚定
-         为人谦和，善于倾听；爱好篮球，团队当头
-         房子车子，加班努力；也有抱怨，善于调节
-         感悟生活，钻研技术；IT人生，指条明路"
+description: "热爱编程，广泛学习；BUG 调试，经验还行；做事认真，负责到底；细心缜密，目标坚定；为人谦和，善于倾听；爱好篮球，团队当头；房子车子，加班努力；也有抱怨，善于调节；感悟生活，钻研技术；IT人生，指条明路"
 keyword: "陈建平, 前端WEB开发工程师"
 url: "http://cdd997.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -61,27 +57,27 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: cdd997
 
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# Gitalk网站统计
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+#  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+#  repo: cdd997.github.io    #仓库名称
+#  owner: cdd997    #github用户名
+#  admin: wo123ri321
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
 ga_domain: cjpcds.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
@@ -110,10 +106,10 @@ friends: [
         href: "https://www.jianshu.com/u/72fdd94ddbaf"
     },{
         title: "Apple",
-        href: "https://apple.com"
+        href: "#"
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "#"
     }
 ]
 
